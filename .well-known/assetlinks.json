@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.tetra.android",
+               "sha256_cert_fingerprints": ["C3:61:C1:7F:AF:DE:55:FE:1B:CC:D8:7E:A6:EE:2F:81:44:03:05:26:43:8F:3D:B5:CF:0E:E0:B9:A2:DB:F4:90"] }
+}]
